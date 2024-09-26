@@ -1,0 +1,4 @@
+ID da compra: 1; Código: 3; Quantidade: 2; Preço Total: 1319.54; Data: 20/09/2024
+ID da compra: 2; Código: 4; Quantidade: 25; Preço Compra Total: 7495.00; Preço Venda Total: 9985.00; Data: 20/09/2024
+ID da compra: 3; Código: 5; Quantidade: 120; Preço Compra Total: 47940.00; Preço Venda Total: 77976.00; Data: 21/09/2024
+ID da compra: 4; Código: 6; Quantidade: 20; Preço Compra Total: 3993.80; Preço Venda Total: 5028.00; Data: 21/09/2024
